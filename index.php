@@ -13,6 +13,6 @@ switch ($route) {
         include './views/contact.php';
         break;
     default:
-        include '404.php'; 
+        include './views/404.php'; 
         break;
 }
