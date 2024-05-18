@@ -1,3 +1,3 @@
 <?php
-    echo"Ini adalah halaman about";
+    echo "About";
 
